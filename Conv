@@ -1,0 +1,11 @@
+Original value
+F      D
+1111   1101
+
+Nibble swap (OP1)
+D      F
+1101   1111
+
+Bit inverse (Readable text value)
+2	   0
+0010   0000
